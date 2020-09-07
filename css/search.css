@@ -1,0 +1,29 @@
+.search-input{
+  background: #fff;
+  border: 0;
+  border-radius: 5px;
+  box-shadow: 0 10px 53px rgba(0,0,0,.1);
+  color: #6c757d;
+  font-size: 2rem;
+  height: 5rem;
+  outline: none;
+  padding: 1rem 1rem 1rem 3rem;
+  width: 45%;
+  margin: 10rem auto;
+}
+
+input[type=text]{
+    border: 0px none #fff;
+    font-size: 4rem;
+    width: 45%;
+}
+
+input[type=text]:focus {
+ outline: none; 
+ border: 0; 
+ width: 45%;
+}
+
+.search-icon{
+  padding: 0px 11px 0px 0px; 
+}
