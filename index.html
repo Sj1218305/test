@@ -1521,7 +1521,7 @@
 
                  var data2 = $.parseJSON(msg);*/
 
-            noOfPages = '6';
+            noOfPages = '15';
             noOfPages = Number(noOfPages) + 1;
 
             var image1 = new Image();
@@ -1658,12 +1658,12 @@
                 let previewPage = []
                 previewPage = '';
                 let array = previewPage.split(',')
-                for (var i = 0; i < '6'; i++) {
+                for (var i = 0; i < '15'; i++) {
                     obj[i + 1] = array[i];
                 }
                 getThumb = obj;
             } else {
-                for (var i = 1; i <= '6'; i++) {
+                for (var i = 1; i <= '15'; i++) {
                     obj[i] = i;
                 }
                 getThumb = obj;
