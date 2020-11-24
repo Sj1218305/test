@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sj1218305/test.git"
+  },
+  "author": "SJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sj1218305/test/issues"
+  },
+  "homepage": "https://github.com/Sj1218305/test#readme"
+}
